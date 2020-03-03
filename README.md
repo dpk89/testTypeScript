@@ -15,7 +15,7 @@ In the project directory, you can run:
 
 
 ### Installation and start
-* clone repop
+* clone repo (https://github.com/dpk89/testTypeScript.git)
 * go to project directory
 * yarn install
 * yarn start
